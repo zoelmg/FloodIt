@@ -1,6 +1,6 @@
 # FloodIt
 The Popular Game Flood-It using the impworld library.
-## Contributors: @zoemlg
+## Contributors: @poojarab
 ### Made in CS2510 (Fundies 2) at Northeastern University
 # How to play: 
 - Try and merge all the colors by clicking a specified colored square before exceeding move-count !
